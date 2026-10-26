@@ -1,0 +1,12 @@
+# OpenAI Agents SDK - the agent framework
+openai-agents
+
+# python-dotenv - load secrets from .env file
+python-dotenv
+
+# Arize AX tracing
+arize-otel
+
+# OpenInference instrumentor for the OpenAI Agents SDK
+# This is the library that hooks into the SDK and emits spans
+openinference-instrumentation-openai-agents

@@ -1,0 +1,17 @@
+date,account,severity,summary
+2026-08-14,Acme Corp,high,Data export pipeline broken for 3 days — production reports are failing
+2026-09-02,Acme Corp,high,SSO integration stopped working after your last update; entire team locked out
+2026-09-21,Acme Corp,medium,Dashboard loading times have doubled since August; users are complaining
+2026-10-05,Acme Corp,high,Still no fix for the SSO issue — we are actively evaluating other vendors
+2026-10-18,Acme Corp,high,Executive escalation: CTO wants a call this week or we are cancelling
+2026-07-11,Globex,low,Minor UI glitch on the filters panel — tooltip text is cut off
+2026-09-15,Globex,low,Can you add CSV export to the analytics dashboard? Our ops team would love it
+2026-10-10,Globex,low,Are there API rate limit tiers for higher volume? We are scaling up our usage
+2026-08-03,Initech,medium,Scheduled reports occasionally fail to send — happens maybe once a week
+2026-09-09,Initech,medium,User provisioning via SCIM is slow — takes 10+ minutes to sync new hires
+2026-10-01,Initech,low,Resolved: SCIM sync issue fixed after config change — thanks for the help
+2026-10-14,Initech,medium,Report failure is still intermittent — no clear pattern, hard to reproduce
+2026-09-20,Umbrella Corp,low,Documentation for the webhooks API is outdated — missing new event types
+2026-10-05,Soylent Corp,low,Login page throws a console error on Safari 17 — not blocking but worth fixing
+2026-08-30,Stark Industries,low,Request for a dedicated CSM check-in cadence — business is growing fast
+2026-10-12,Stark Industries,low,Interested in the Enterprise Analytics add-on — can we get a demo?
